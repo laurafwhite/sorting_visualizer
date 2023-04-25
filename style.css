@@ -1,0 +1,35 @@
+
+#container {
+    height: 200px;
+    display: flex;
+    align-items:flex-end;
+}
+
+.bar {
+    width: 25px;
+    background-color: #A3B18A;
+    margin: 0.1%;
+}
+
+.button1 {
+    background-color: #DAD7CD;
+    text-align: center;
+    padding: 10px 22px;
+    font-family: "Minecraft";
+    cursor: pointer;
+    font-size: 17px;
+}
+
+body {
+    background-color: #344E41;
+    display: flex;
+    align-items: center;
+    padding-top: 10%;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: "Minecraft";
+    color: #DAD7CD;
+    font-size: 57px;
+}
